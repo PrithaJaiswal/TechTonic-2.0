@@ -1,15 +1,15 @@
 # Contributor Introduction
 
-##Name & Roll No  
+## Name & Roll No  
 Divakar Bhatt IIT2025179
 
-##Github username  
+## Github username  
 @wodivakar https://github.com/wodivakar
 
-##Who is my techparent  
+## Who is my techparent  
 Yash Patil sir is my techparent.
 
-##Favorite Senior  
+## Favorite Senior  
 Piyushtiwari sir and Ksshitij sir (passouts btw), very optimistic
 
 ## Interests  
